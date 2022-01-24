@@ -45,7 +45,8 @@ class ScrapeRecipes
       Recipe.new(
         name: name,
         description: description,
-        rating: rating
+        rating: rating,
+        prep_time: prep_time
       )
     end
     # should be returning.... an array of recipe INSTANCES
