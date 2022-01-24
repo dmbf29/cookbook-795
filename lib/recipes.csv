@@ -1,2 +1,3 @@
-boeuf bourguignon,red wine beef stew
-chocolate cake,chocolate yummy
+name,description,rating,prep_time,done
+Kim's Eggnog,Delicious,5,10 min,false
+spaghetti,pasta with sauce,5,10min,true
