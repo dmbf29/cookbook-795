@@ -42,4 +42,4 @@ class ScrapeRecipes
   end
 end
 
-ScrapeRecipes.new('cheesecake').call
+# ScrapeRecipes.new('cheesecake').call
